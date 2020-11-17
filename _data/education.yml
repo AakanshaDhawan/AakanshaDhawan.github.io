@@ -1,0 +1,11 @@
+# Education Template
+
+- layout: left
+  name: UIET,Kanpur University
+  dates: 2015 - 2019
+  qualification: B.Tech in Computer Science and Engineering
+  description: | # this will include new lines to allow paragraphs
+    - CGPA <mark>8.2</mark> .
+    - Technical Head at TechMart-2017(Technical Fest), Kanpur University, Kanpur.
+    - Campus Ambassador at Geeks for Geeks (2017-2018).
+    - Campus Ambassador at E-Cell– Indian Institute of Technology Bombay, Mumbai (2017-2018).

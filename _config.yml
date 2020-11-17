@@ -1,0 +1,81 @@
+favicon: assets/favicon.ico
+
+# Personal info
+name: Aakansha Dhawan
+title: Problem Solver | Software Developer
+email: aakansha2809@gmail.com
+phone: +91-8299756482
+
+# Social links
+github_username:  AakanshaDhawan
+linkedin_username: aakansha-dhawan-33583511a
+
+# About Section
+# about_title: About Me
+about_profile_image: assets/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I'm a Software Developer and Open Source Supporter. Apart from being geek, I love to read
+  books, and watch movies & TV shows. 
+  
+  Watching Artificial Intelligence evolve in movies from Star Wars to Wall-e, I got
+  inclined towards <mark>Artificial Intelligence</mark> and <mark>Computer Vision</mark> .
+
+  Skilled in developing, in coordination with Product teams, an overall strategy for the technology department, setting up phases
+  of delegation in order to support growth.
+
+  What I am working on right now:
+    - <a target="_blank" href="">🐍 Django-React-Ecommerce</a>: 
+    An Ecommerce website with all feature from search to recommendation to filters.
+  
+    _A pdf version of my resume is available <a href="https://drive.google.com/file/d/17A_obOK29FGnQOuBe0ZesUjDbV53SfpV/view?usp=sharing" target="_blank" >here</a>._
+
+
+# The most interesting things happening in my life, right now, academically speaking are:
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# Achievements Section
+achievements_title: "Few things I am proud of"
+
+# Volunteering Experience section
+volunteering_experience_title: "Publication"
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  - Secured 4th Position in Hertech Hackathon,Gurgaon.
+  - Scholar at Grace Hopper Conference India2018
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+#  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

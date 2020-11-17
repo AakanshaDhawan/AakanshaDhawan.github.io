@@ -1,0 +1,46 @@
+- name: Crime Record Management System
+  # link: github.com/AakanshaDhawan/crime_management_system
+  github: github.com/AakanshaDhawan/crime_management_system
+  description: | # this will include new lines to allow paragraphs
+    Database Management System where crimes can be recorded, there status can be changed and reports with various attributes
+    can be seen. 
+    
+    <mark>Php</mark> <mark>SQL</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark>
+
+- name: Movieocity
+  github: github.com/AakanshaDhawan/Movieocity
+  description: | # this will include new lines to allow paragraphs
+    Application to list all your favriote movies and also search them. A nice way of learning React and its Hooks.
+    
+    <mark>React JS</mark> <mark>JSON</mark> <mark>JavaScript</mark>
+
+
+- name: Ecommerce
+  github: github.com/AakanshaDhawan/Ecommerce
+  description: | # this will include new lines to allow paragraphs
+    Ecommerce website to buy items with and without login (guest session).
+    
+    <mark>Python</mark>  <mark>Django</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark>
+
+- name: Four Card Display 
+  github: github.com/AakanshaDhawan/four-cards
+  description: | # this will include new lines to allow paragraphs
+    A simple display from CSS and Bootstrap.
+    
+    <mark>HTML</mark> <mark>CSS</mark>
+
+- name: Job Listings with Tags 
+  github: github.com/AakanshaDhawan/crime_management_system
+  description: | # this will include new lines to allow paragraphs
+    A React Application to see all the listings of job and filter using Tags.
+    
+    <mark>React JS</mark> <mark>JSON</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark>
+
+
+- name:  Catan Randomizer 
+  github: github.com/AakanshaDhawan/CatanRandomizer
+  description: | # this will include new lines to allow paragraphs
+    One of the troubles while play CATAN is to set display of the board. This application solves this problem and gives new board every time and also has a support for extension board.
+    
+    <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark>
+

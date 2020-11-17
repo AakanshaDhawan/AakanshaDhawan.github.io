@@ -1,0 +1,103 @@
+- layout: left
+  company: Mobiux
+  job_title: Software Developer
+  dates: November 2019 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Developing trends and insight tools for the data media platform using Machine Learning.
+    - Designing a data media platform for Deal<i>Street</i>Asia to give a platform to compaines, Investors, Funds display MetaData about their Organization and Finances.
+    - Migrating Django HTML views to React at large scale.
+    - Developing SEO strategy as well as seamless interface with delivery sites using NextJS and ReactJS.
+    - Developed an e-commerce food delivery with React as Frontend,Django as Backend with MySQL database. Available @bakers.market
+    - Designed an admin dashboard to forecast revenue for next six  months using time series analysis and customer churn prediction using Logistic regression.
+    - Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed using Django.
+    - Documentation of existing API’s using Django REST Swagger.
+  tags: <mark>Python</mark> &nbsp;
+    <mark>Django</mark> &nbsp;
+    <mark>Next JS</mark> &nbsp;
+    <mark>React JS</mark> &nbsp;
+    <mark>Machine Learning</mark> &nbsp;
+    <mark>Scikit Learn</mark> &nbsp;
+    <mark>Pandas</mark> &nbsp;
+    <mark>Numpy</mark> &nbsp;
+    <mark>Chart JS</mark> &nbsp;
+    
+- layout: left
+  company: Global Logic
+  job_title: Software Developer
+  dates: July 2019 - November 2019
+  description: | # this will include new lines to allow paragraphs
+    - Smart Attendance System for employees as a POC
+    - Worked in a fully agile environment using Test Driven Development (TDD) and Continuous Integration (CI).
+    - Designed unit and integration tests for an online learning platform
+    - Completed training of Selenium, TestNG, Cucumber, Maven
+  tags: <mark> Java </mark> &nbsp;
+    <mark>Python </mark> &nbsp;
+    <mark>Computer Vision </mark> &nbsp;
+    <mark>Selenium </mark> &nbsp;
+    <mark>Cucumber </mark> &nbsp;
+    <mark>Maven </mark>
+
+- layout: left
+  company: CV Lab, IIT Kanpur
+  job_title: Research Intern 
+  dates: May 2018 - May 2019
+  description: | # this will include new lines to allow paragraphs
+    - Developed a software to convert an Infrared Image to RGB image (colored image).
+    - Developed an Application to count all steel pipes and sheets in an image using Open CV.
+    - Created a “Color Identification for Blind with Voice" to help identify the colored surfaces.
+    - Tools Used : OpenCV, Arduino
+  tags:
+    # <mark>Python</mark> &nbsp;
+    <mark>Computer Vision</mark> &nbsp;
+    <mark>Embedded C</mark>
+
+- layout: left
+  company: NLP Lab, IIT Patna
+  job_title: Research Intern 
+  dates: Dec 2017 - Jan 2018
+  description: | # this will include new lines to allow paragraphs
+    - Created a tool "Cleaning and Mapping Interface" which increased the proficiency of annotation of bibliographic data by 54% using n-gram Model and RNN.
+    - Annotated Bibliographic data from Research Papers of various field. 
+    - Tools Used: NLTK, TensorFlow
+    
+  tags: <mark> NLP </mark> &nbsp;
+    <mark>Deep Learning </mark> &nbsp;
+
+- layout: left
+  company: Pro Work Tree
+  job_title: Backend Developer Intern
+  dates: Aug 2017 - Nov 2017
+  description: | # this will include new lines to allow paragraphs
+    - Developed an API e-Tax filing system which helps to file tax easily and generate tax receipt for both partial and full assignments.
+    - The user details are verified by using NSDL open API for GST user verification and signature.
+  tags: <mark>NodeJS</mark> &nbsp;
+    <mark>Express Js</mark> &nbsp;
+    <mark>Mongo DB</mark>
+
+- layout: left
+  company: Golden Web Developer
+  job_title: Backend Developer Intern
+  dates: May 2017 - July 2017
+  description: | # this will include new lines to allow paragraphs
+    - Created a platform to connect players of different games in your area with each other.
+    - A playground for the respective game can also be chosen in dnd games can be scheduled.
+    - Technology Used: Passport Authentication, Geolocation, Sessions, Calender Integration.
+  tags: <mark>NodeJS</mark> &nbsp;
+    <mark>Express Js</mark> &nbsp;
+    <mark>Mongo DB</mark>
+
+- layout: left
+  company: DrivoJoy
+  job_title: Software Developer Intern
+  dates: May 2016 - July 2016
+  description: | # this will include new lines to allow paragraphs
+    - Worked on front end of their website and created a slick design and certain pages using CSS, HTML, JavaScript and Bootstrap framework.
+    - Analyzed their NOSQL Database (MongoDB). 
+    - Created Cohort Analysis for the company.
+    - Got an great insight how an end to end system works in Industry
+  tags: <mark>MongoDb</mark> &nbsp;
+    <mark>HTML</mark> &nbsp;
+    <mark>JavaScript</mark> &nbsp;
+    <mark>Google Analytics</mark> &nbsp;
+
+    <mark>CSS</mark>
